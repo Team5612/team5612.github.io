@@ -75,9 +75,9 @@
 				
 				
 					<article id="post-1" class="post type-post hentry">
-						<!--<header class="entry-header">
+						<header class="entry-header">
 							<h4 class="entry-title">Lorem ipsum</h4>
-						</header>-->
+						</header>
 						<div class="entry-content">
 							<p>
 								<div class="postone">
